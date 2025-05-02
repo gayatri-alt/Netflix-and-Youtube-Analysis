@@ -31,11 +31,14 @@ Based on the analysis, actionable recommendations were made to help Netflix Indi
 **Post During Weekdays**: Publish videos on weekdays to optimize engagement.
 
 **Optimize Titles**: Craft shorter, more engaging titles to attract viewers.
-
+ 
 **Technologies Used**
 **Power Query**: For Data cleaning & transforming
 **Power BI**: for visualization 
 **Conclusion**
 This analysis has provided Netflix India with valuable insights into the performance drivers behind their YouTube videos. By understanding the relationship between video attributes (such as duration, tags, publishing time) and audience engagement, Netflix India can make data-driven decisions to optimize their content strategy and reach a larger audience.
 Future work could include further refinement of the dataset, additional feature engineering, or deeper exploration of audience demographics to provide even more granular insights.
+
+## Explore live Dashboard: 
+[view Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTM5MDc1MWQtYzEyYi00N2NlLWFkOWYtM2E1YTgxMGM4ODk4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
